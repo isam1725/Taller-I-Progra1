@@ -1,8 +1,8 @@
 # Informe del Taller – Gestión de Producto en C
 
 **Materia:** ISWZ1102 – Programación 1  
-**Autores:** (complete aquí)  
-**Docente:** (complete aquí)  
+**Autores:** Martín Aimacaña-Alex Palma  
+**Docente:** ...........................
 
 ## 1. Introducción
 Se implementó un sistema en C para que un comerciante gestione la venta de un único producto: registro, venta con validación de stock y descuento por venta, reabastecimiento, consulta y cálculo de ganancias acumuladas. El programa permanece en ejecución mediante un menú hasta que el usuario decida salir.
